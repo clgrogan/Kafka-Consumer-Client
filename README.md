@@ -19,7 +19,7 @@ Build a small application that reads records from a Kafka topic using a KafkaCon
 ## Tech Notes
 
 - The configuration files are not included in the Git repository. The Kafka tutorial referenced in the acknowledgements provides guidance on how to set up the configuration files.
-- The tutorial was out of date slightly when I created this application. There must be a "settings.gradle" file in the application (typically at the root directory) for newer versions of Gradle in order to build the application. For single project builds the file may be empty.
+- The tutorial was out of date slightly when I created this application. There must be a "settings.gradle" file in the application (typically at the root directory) for newer versions of Gradle in order to build the application. For single project builds the file will likely be empty.
 
 ## Built With
 
