@@ -1,6 +1,6 @@
 # Apache Kafka Consumer Application
 
-This application reads records from a Kafka topic with KafkaConsumer.
+This application reads records from a Kafka topic with the KafkaConsumer class.
 
 ## Summary
 
